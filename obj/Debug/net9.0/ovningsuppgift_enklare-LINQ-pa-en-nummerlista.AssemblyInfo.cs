@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ovningsuppgift_enklare-LINQ-pa-en-nummerlista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+704228401ee48613c039e88243bef14df11d1aaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ovningsuppgift_enklare-LINQ-pa-en-nummerlista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ovningsuppgift_enklare-LINQ-pa-en-nummerlista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
